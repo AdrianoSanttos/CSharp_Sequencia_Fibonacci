@@ -1,0 +1,6 @@
+d:\adriano santos\documents\visual studio 2015\Projects\Sequencia_Fibonacci\Sequencia_Fibonacci\bin\Debug\Sequencia_Fibonacci.exe.config
+d:\adriano santos\documents\visual studio 2015\Projects\Sequencia_Fibonacci\Sequencia_Fibonacci\bin\Debug\Sequencia_Fibonacci.exe
+d:\adriano santos\documents\visual studio 2015\Projects\Sequencia_Fibonacci\Sequencia_Fibonacci\bin\Debug\Sequencia_Fibonacci.pdb
+d:\adriano santos\documents\visual studio 2015\Projects\Sequencia_Fibonacci\Sequencia_Fibonacci\obj\Debug\Sequencia_Fibonacci.csprojResolveAssemblyReference.cache
+d:\adriano santos\documents\visual studio 2015\Projects\Sequencia_Fibonacci\Sequencia_Fibonacci\obj\Debug\Sequencia_Fibonacci.exe
+d:\adriano santos\documents\visual studio 2015\Projects\Sequencia_Fibonacci\Sequencia_Fibonacci\obj\Debug\Sequencia_Fibonacci.pdb
